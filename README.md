@@ -63,8 +63,8 @@ data-warehouse-project/
 │   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
 │   ├── data_architecture.png           # Photo shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── data_models.drawio              # Draw.io file for data models (star schema)
+│   ├── data_flow.png                   # Photo shows the data flow diagram
+│   ├── data_models.png                 # Photo shows the data models (star schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
