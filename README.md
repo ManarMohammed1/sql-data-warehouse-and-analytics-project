@@ -50,6 +50,8 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 
+![Data Analytics Roadmap](docs/data_analytics_roadmap.png)
+
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 ---
@@ -60,6 +62,7 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
+│   ├── data_analytics_roadmap.png      # Visual mind map of the exploratory and advanced analyses performed in this project
 │   ├── data_architecture.png           # Photo shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow.png                   # Photo shows the data flow diagram
