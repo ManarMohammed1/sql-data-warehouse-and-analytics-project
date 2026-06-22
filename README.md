@@ -59,6 +59,8 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ```
 data-warehouse-project/
 │
+├── analytics/                          # Analytics and reporting scripts querying Gold layer views
+│
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
